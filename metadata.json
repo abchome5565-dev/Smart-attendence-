@@ -1,0 +1,6 @@
+{
+  "name": "Smart Attendance",
+  "description": "Smart Attendance App with local Room database, student management, daily attendance tracking, monthly reports, and interactive stats dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
